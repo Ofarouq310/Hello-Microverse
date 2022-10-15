@@ -1,7 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Hello-Microverse
-Hello-Microverse
 
 > This is a project built to put the knowledge and requirements needed by students into practice for the next projects.
 
@@ -10,7 +9,9 @@ Hello-Microverse
 
 - Major languages (HTML, CSS)
 
+
 ## Live Demo 
+
 
 ## Getting Started
 
@@ -27,12 +28,12 @@ Hello-Microverse
 ### Deployment
 
 
-
 ## Authors
 
-👤 **Author1**
+👤 **Omar Farouq**
 
 - GitHub: [@Ofarouq310](https://github.com/Ofarouq310)
+
 
 ## 🤝 Contributing
 
@@ -40,8 +41,10 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
 
 ## 📝 License
