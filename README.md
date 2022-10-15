@@ -3,7 +3,7 @@
 # Project Name
 Hello-Microverse
 
-> > This is a project built to put the knowledge and requirements needed by students into practice for the next projects.
+> This is a project built to put the knowledge and requirements needed by students into practice for the next projects.
 
 
 ## Built With
