@@ -33,7 +33,8 @@
 👤 **Omar Farouq**
 
 - GitHub: [@Ofarouq310](https://github.com/Ofarouq310)
-
+- Twitter: [@Ofaouq310](https://twitter.com/ofarouq310)
+- LinkedIn: [@Ofarouq310](https://www.linkedin.com/in/Ofarouq310/)
 
 ## 🤝 Contributing
 
